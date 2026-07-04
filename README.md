@@ -4,6 +4,8 @@ A demonstration project for [Remind](https://github.com/sandst1/remind) **v0.12.
 
 The goal is not just to collect PDFs. It is to build a **growing, queryable knowledge base** about the papers you read: findings, methods, connections between ideas, open questions, and contradictions — all structured so future sessions can recall and build on prior work.
 
+![Paper Agent: AI-Powered Research Paper Processing](paperagent.png)
+
 ## Prerequisites
 
 - **[Remind 0.12.3](https://github.com/sandst1/remind)** — install with a pinned version:
