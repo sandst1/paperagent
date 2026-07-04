@@ -1,6 +1,6 @@
 # Paper Agent
 
-A demonstration project for [Remind](https://github.com/sandst1/remind) **v0.12.3** — an agent-driven memory layer for LLMs. An AI agent reads scientific papers, stores what it learns in Remind, and curates that knowledge into durable concepts that persist across sessions.
+A demonstration project for [Remind](https://github.com/sandst1/remind) — an agent-driven memory layer for LLMs. An AI agent reads scientific papers, stores what it learns in Remind, and curates that knowledge into durable concepts that persist across sessions.
 
 The goal is not just to collect PDFs. It is to build a **growing, queryable knowledge base** about the papers you read: findings, methods, connections between ideas, open questions, and contradictions — all structured so future sessions can recall and build on prior work.
 
@@ -8,10 +8,10 @@ The goal is not just to collect PDFs. It is to build a **growing, queryable know
 
 ## Prerequisites
 
-- **[Remind 0.12.3](https://github.com/sandst1/remind)** — install with a pinned version:
+- **[Remind](https://github.com/sandst1/remind)** — install the latest version:
 
   ```bash
-  pip install remind-mcp==0.12.3
+  pip install remind-mcp
   ```
 
   Remind uses local embeddings by default (no API key required). See the [Remind docs](https://sandst1.github.io/remind/) for configuration options.
